@@ -1,0 +1,33 @@
+body {
+    background-image:url('https://img.olhardigital.com.br/uploads/acervo_imagens/2019/03/r16x9/20190322051919_1200_675_-_codigo_de_programacao.jpg');
+    background-size: 150vh;
+    font-family: Arial;
+    height: 100vh;
+  }
+  .menu {
+    background-color: white;
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  .menu li {
+    list-style: none;
+  }
+  a{
+    color: teal;
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+  .site-subtitle,
+  .site-title {
+    text-align: center;
+    color: whitesmoke;
+  }
+  
+  .site-subtitle {
+    font-style: italic;
+  }
